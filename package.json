@@ -11,10 +11,10 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo 'Run your tests here'"
   },
   "dependencies": {
-    "gatsby": "^3.4.1",
+    "gatsby": "^3.5.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
